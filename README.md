@@ -1,5 +1,5 @@
 ![logo](https://github.com/codebykaif/codebykaif/blob/main/github-header-banner.png)
-<h1 align="center">MERN Stack Developer | Back-end Enthusiast</h1>
+<h1 align="center">Specialisation in Java | Back-end Enthusiast</h1>
 <h3 align="center">I am a passionate and self-motivated software developer with a strong foundation in program BITS Palani Software Engineer in Making</h3>
 
 <img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
